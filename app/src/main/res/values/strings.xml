@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastP2</string>
+    <string name="hello_devs">Hello Devs</string>
+    <string name="the_user_has_been_successfully_logged_in">The user has been successfully logged in</string>
+</resources>
